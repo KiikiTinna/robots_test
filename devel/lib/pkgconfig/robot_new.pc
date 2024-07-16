@@ -1,0 +1,8 @@
+prefix=/home/kristinan/robots_test/devel
+
+Name: robot_new
+Description: Description of robot_new
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,2 @@
+robot_connection:robot_move:robot_program
+-DCATKIN_DEVEL_PREFIX=/home/kristinan/robots_test/devel -DCMAKE_INSTALL_PREFIX=/home/kristinan/robots_test/install -G Unix Makefiles

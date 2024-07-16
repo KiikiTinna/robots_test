@@ -1,0 +1,8 @@
+prefix=/home/kristinan/robots_test/install
+
+Name: robot_program
+Description: Description of robot_program
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

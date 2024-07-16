@@ -1,0 +1,8 @@
+prefix=/home/kristinan/robots_test/install
+
+Name: robot_connection
+Description: Description of robot_connection
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
